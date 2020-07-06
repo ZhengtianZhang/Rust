@@ -9,3 +9,7 @@
 继续根据[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)进行自学  
 学习了所有权  
 开始完成编程：小练习题  
+## July 06
+### 今日工作
+继续根据[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)进行自学  
+继续完成编程：小练习题  
