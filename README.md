@@ -17,3 +17,17 @@
 ### 今日工作
 继续根据[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)进行自学  
 开始完成编程：100行左右的中小练习题  
+## July 08
+### 今日工作
+继续根据[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)进行自学  
+继续完成编程：100行左右的中小练习题  
+## July 09
+### 今日工作  
+继续完成编程：100行左右的中小练习题  
+## July 10
+### 今日工作
+继续根据[Rust 程序设计语言 简体中文版](https://kaisery.github.io/trpl-zh-cn/)进行自学  
+继续完成编程：100行左右的中小练习题  
+## July 11
+### 今日工作
+开始根据[PPT for RIS-V特权指令级架构](https://content.riscv.org/wp-content/uploads/2018/05/riscv-privileged-BCN.v7-2.pdf)自学risc-v系统结构  
